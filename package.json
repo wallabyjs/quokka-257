@@ -1,0 +1,8 @@
+{
+  "name": "quokka-257",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "alias-quokka-plugin": "^0.1.0"
+  }
+}

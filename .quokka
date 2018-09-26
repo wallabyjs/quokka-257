@@ -1,0 +1,6 @@
+{
+  "plugins": ["alias-quokka-plugin"],
+  "alias": {
+    "@core/foo": "./src/a.js"
+  }
+}
